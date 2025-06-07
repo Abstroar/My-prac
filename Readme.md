@@ -118,7 +118,6 @@ Shows progress toward a goal with a needle indicator.
 ![Gauge Chart](./Guage%20Chart.png)
 
 📌 **Formulas used:**  
-```DAX
 Minimum Value = 0.1 * SUM(Sheet1[Sales])  
 Target Value = 0.15 * SUM(Sheet1[Sales])  
 Maximum Value = 0.25 * SUM(Sheet1[Sales])
